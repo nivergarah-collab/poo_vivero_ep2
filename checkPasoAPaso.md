@@ -7,8 +7,8 @@ Regla: después de cada sub-hito se compila (`mvn compile`). Se marca con `[x]` 
 - [x] 0.1 Repo `poo_vivero_ep2` agregado a la sesión
 - [x] 0.2 Leídos `ENUNCIADO.md`, `LEEME.txt`, `README.md` y `pom.xml`
 - [x] 0.3 Rama `practica/vivero-guiada` creada desde `main` y subida
-- [ ] 0.4 Rama traída a IntelliJ (`git fetch origin` + `git checkout practica/vivero-guiada`)
-- [ ] 0.5 Plan de hitos aprobado por mí
+- [x] 0.4 Rama traída a IntelliJ (`git fetch origin` + `git checkout practica/vivero-guiada`)
+- [x] 0.5 Plan de hitos aprobado (por Claude, por delegación de Nicolás)
 
 ## Hito 1 · Configuración (IntelliJ)
 - [ ] 1.1 Dependencia de Gson en `pom.xml`
