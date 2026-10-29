@@ -20,8 +20,8 @@ Regla: después de cada sub-hito se compila (`mvn compile`). Se marca con `[x]` 
 - [x] Cierre: compila y la app arranca
 
 ## Hito 2 · Vista (Scene Builder)
-- [ ] 2.1 Crear `main-view.fxml` en `src/main/resources/cl/duoc/vivero/view/`
-- [ ] 2.2 Formulario: selector de tipo, nombre, altura, cantidad
+- [x] 2.1 Crear `main-view.fxml` en `src/main/resources/cl/duoc/vivero/view/`
+- [x] 2.2 Formulario: selector de tipo, nombre, altura, cantidad
 - [ ] 2.3 Datos de interior (volumen) y de exterior (especie, heladas, despacho)
 - [ ] 2.4 Botón Registrar con `onAction`
 - [ ] 2.5 Tabla con 5 columnas: Tipo, Nombre, Altura (cm), Cantidad, Precio unitario
