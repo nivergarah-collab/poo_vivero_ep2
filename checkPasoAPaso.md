@@ -24,7 +24,7 @@ Regla: después de cada sub-hito se compila (`mvn compile`). Se marca con `[x]` 
 - [x] 2.2 Formulario: selector de tipo, nombre, altura, cantidad
 - [x] 2.3 Datos de interior (volumen) y de exterior (especie, heladas, despacho)
 - [x] 2.4 Botón Registrar con `onAction`
-- [ ] 2.5 Tabla con 5 columnas: Tipo, Nombre, Altura (cm), Cantidad, Precio unitario
+- [x] 2.5 Tabla con 5 columnas: Tipo, Nombre, Altura (cm), Cantidad, Precio unitario
 - [ ] 2.6 Botón Eliminar con `onAction`
 - [ ] 2.7 Label de mensajes
 - [ ] 2.8 `fx:controller` en el nodo raíz y todos los `fx:id`
