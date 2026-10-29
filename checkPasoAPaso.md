@@ -11,8 +11,8 @@ Regla: después de cada sub-hito se compila (`mvn compile`). Se marca con `[x]` 
 - [x] 0.5 Plan de hitos aprobado (por Claude, por delegación de Nicolás)
 
 ## Hito 1 · Configuración (IntelliJ)
-- [ ] 1.1 Dependencia de Gson en `pom.xml`
-- [ ] 1.2 Recargar Maven y comprobar que compila
+- [x] 1.1 Dependencia de Gson en `pom.xml`
+- [x] 1.2 Recargar Maven y comprobar que compila
 - [ ] 1.3 Crear la estructura de paquetes: `controller`, `repository`
 - [ ] 1.4 Crear `module-info.java` (requires y opens)
 - [ ] 1.5 Cambiar `mainClass` del plugin en `pom.xml` a `módulo/clase`
