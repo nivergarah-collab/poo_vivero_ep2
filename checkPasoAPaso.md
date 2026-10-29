@@ -28,7 +28,7 @@ Regla: después de cada sub-hito se compila (`mvn compile`). Se marca con `[x]` 
 - [x] 2.6 Botón Eliminar con `onAction`
 - [x] 2.7 Label de mensajes
 - [x] 2.8 `fx:controller` en el nodo raíz y todos los `fx:id`
-- [ ] Cierre: la ventana abre y se ve completa
+- [x] Cierre: la ventana abre y se ve completa
 
 ## Hito 3 · Repository (IntelliJ)
 - [ ] 3.1 Clase del repositorio con la lista en memoria
