@@ -31,7 +31,7 @@ Regla: después de cada sub-hito se compila (`mvn compile`). Se marca con `[x]` 
 - [x] Cierre: la ventana abre y se ve completa
 
 ## Hito 3 · Repository (IntelliJ)
-- [ ] 3.1 Clase del repositorio con la lista en memoria
+- [x] 3.1 Clase del repositorio con la lista en memoria
 - [ ] 3.2 Leer un archivo JSON con Gson (`TypeToken`, control de `null`, archivo inexistente)
 - [ ] 3.3 Validar lo leído
 - [ ] 3.4 Cargar `interiores.json` y `exteriores.json` al iniciar
