@@ -23,7 +23,7 @@ Regla: después de cada sub-hito se compila (`mvn compile`). Se marca con `[x]` 
 - [x] 2.1 Crear `main-view.fxml` en `src/main/resources/cl/duoc/vivero/view/`
 - [x] 2.2 Formulario: selector de tipo, nombre, altura, cantidad
 - [x] 2.3 Datos de interior (volumen) y de exterior (especie, heladas, despacho)
-- [ ] 2.4 Botón Registrar con `onAction`
+- [x] 2.4 Botón Registrar con `onAction`
 - [ ] 2.5 Tabla con 5 columnas: Tipo, Nombre, Altura (cm), Cantidad, Precio unitario
 - [ ] 2.6 Botón Eliminar con `onAction`
 - [ ] 2.7 Label de mensajes
