@@ -37,8 +37,8 @@ Regla: después de cada sub-hito se compila (`mvn compile`). Se marca con `[x]` 
 - [x] 3.4 Cargar `interiores.json` y `exteriores.json` al iniciar
 - [x] 3.5 Escribir un archivo JSON con Gson (`try` con recursos y `toJson`)
 - [x] 3.6 Guardar un archivo por tipo (separar interiores y exteriores)
-- [ ] 3.7 Agregar y eliminar con copia de la lista, guardado y luego cambio en memoria
-- [ ] Cierre: compila y el repositorio guarda y lee sin la ventana
+- [x] 3.7 Agregar y eliminar con copia de la lista, guardado y luego cambio en memoria
+- [x] Cierre: compila y el repositorio guarda y lee sin la ventana (probado en la copia de Claude; en tu PC se prueba de punta a punta en el hito 7)
 
 ## Hito 4 · Controlador base y tabla
 - [ ] 4.1 Campos `@FXML` enlazados a los `fx:id`
