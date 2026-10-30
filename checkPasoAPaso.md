@@ -66,7 +66,7 @@ Regla: después de cada sub-hito se ejecuta (`Launcher`). Se marca con `[x]` sol
 
 ## Hito 7 · Verificación con los datos de prueba
 - [x] 7.1 Registrar Menta (interior), Helecho, Menta (exterior) y Rosal con sus precios
-- [ ] 7.2 Eliminar sin selección muestra el aviso
+- [x] 7.2 Eliminar sin selección muestra el aviso
 - [ ] 7.3 Altura `abc` y cantidad `0` muestran el aviso y conservan los valores
 - [ ] 7.4 Cerrar y reabrir: las 4 plantas, y la Menta de exterior sigue lista para despacho
 - [ ] 7.5 Eliminar Rosal, cerrar y reabrir: ya no aparece
