@@ -1,7 +1,7 @@
 # Check paso a paso · Vivero Hojas del Sur
 
 Rama de trabajo: `practica/vivero-guiada`
-Regla: después de cada sub-hito se compila (`mvn compile`). Se marca con `[x]` solo lo que ya compila y funciona.
+Regla: después de cada sub-hito se ejecuta (`Launcher`). Se marca con `[x]` solo lo que ya corre y funciona.
 
 ## Hito 0 · Lectura y rama
 - [x] 0.1 Repo `poo_vivero_ep2` agregado a la sesión
@@ -44,7 +44,7 @@ Regla: después de cada sub-hito se compila (`mvn compile`). Se marca con `[x]` 
 - [x] 4.1 Campos `@FXML` enlazados a los `fx:id`
 - [x] 4.2 `initialize()`: opciones del selector y columnas de la tabla
 - [x] 4.3 Lista observable conectada a la tabla
-- [ ] 4.4 Habilitar y deshabilitar los datos según el tipo
+- [x] 4.4 Habilitar y deshabilitar (y mostrar u ocultar) los datos según el tipo
 - [ ] 4.5 Mostrar las plantas cargadas al iniciar
 - [ ] Cierre: la app abre con la tabla enlazada y el selector funciona
 
