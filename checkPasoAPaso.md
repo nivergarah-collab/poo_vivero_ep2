@@ -52,7 +52,7 @@ Regla: después de cada sub-hito se ejecuta (`Launcher`). Se marca con `[x]` sol
 - [x] 5.1 Validar tipo, nombre, altura y cantidad
 - [x] 5.2 Validar volumen (interior) y especie (exterior)
 - [x] 5.3 Mensajes de error en la ventana, conservando lo ingresado
-- [ ] 5.4 Crear la planta, guardar y actualizar la tabla
+- [x] 5.4 Crear la planta, guardar y actualizar la tabla
 - [ ] 5.5 Mensaje de éxito y formulario vacío
 - [ ] 5.6 Marcar lista para despacho en el exterior
 - [ ] Cierre: se registra una planta válida y una inválida da su aviso
