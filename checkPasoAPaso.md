@@ -69,6 +69,6 @@ Regla: después de cada sub-hito se ejecuta (`Launcher`). Se marca con `[x]` sol
 - [x] 7.2 Eliminar sin selección muestra el aviso
 - [x] 7.3 Altura `abc` y cantidad `0` muestran el aviso y conservan los valores
 - [x] 7.4 Cerrar y reabrir: las 4 plantas, y la Menta de exterior sigue lista para despacho
-- [ ] 7.5 Eliminar Rosal, cerrar y reabrir: ya no aparece
-- [ ] 7.6 Resumen de lo aprendido y errores que más cuestan
+- [x] 7.5 Eliminar Rosal, cerrar y reabrir: ya no aparece
+- [x] 7.6 Resumen de lo aprendido y errores que más cuestan
 - [ ] 7.7 Commit y push (solo cuando yo lo apruebe)
