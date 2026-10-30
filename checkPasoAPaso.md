@@ -45,8 +45,8 @@ Regla: después de cada sub-hito se ejecuta (`Launcher`). Se marca con `[x]` sol
 - [x] 4.2 `initialize()`: opciones del selector y columnas de la tabla
 - [x] 4.3 Lista observable conectada a la tabla
 - [x] 4.4 Habilitar y deshabilitar (y mostrar u ocultar) los datos según el tipo
-- [ ] 4.5 Mostrar las plantas cargadas al iniciar
-- [ ] Cierre: la app abre con la tabla enlazada y el selector funciona
+- [x] 4.5 Mostrar las plantas cargadas al iniciar
+- [x] Cierre: la app abre con la tabla enlazada y el selector funciona
 
 ## Hito 5 · Registrar y validaciones
 - [ ] 5.1 Validar tipo, nombre, altura y cantidad
