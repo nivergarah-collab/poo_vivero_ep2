@@ -32,7 +32,7 @@ Regla: después de cada sub-hito se compila (`mvn compile`). Se marca con `[x]` 
 
 ## Hito 3 · Repository (IntelliJ)
 - [x] 3.1 Clase del repositorio con la lista en memoria
-- [ ] 3.2 Leer un archivo JSON con Gson (`TypeToken`, control de `null`, archivo inexistente)
+- [x] 3.2 Leer un archivo JSON con Gson (`TypeToken`, control de `null`, archivo inexistente)
 - [ ] 3.3 Validar lo leído
 - [ ] 3.4 Cargar `interiores.json` y `exteriores.json` al iniciar
 - [ ] 3.5 Agregar con copia de la lista, guardado y luego cambio en memoria
