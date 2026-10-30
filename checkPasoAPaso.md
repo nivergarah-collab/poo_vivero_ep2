@@ -34,10 +34,10 @@ Regla: después de cada sub-hito se compila (`mvn compile`). Se marca con `[x]` 
 - [x] 3.1 Clase del repositorio con la lista en memoria
 - [x] 3.2 Leer un archivo JSON con Gson (`TypeToken`, control de `null`, archivo inexistente)
 - [x] 3.3 Validar lo leído
-- [ ] 3.4 Cargar `interiores.json` y `exteriores.json` al iniciar
-- [ ] 3.5 Agregar con copia de la lista, guardado y luego cambio en memoria
-- [ ] 3.6 Eliminar con la misma regla
-- [ ] 3.7 Guardar un archivo por tipo
+- [x] 3.4 Cargar `interiores.json` y `exteriores.json` al iniciar
+- [ ] 3.5 Escribir un archivo JSON con Gson (`try` con recursos y `toJson`)
+- [ ] 3.6 Guardar un archivo por tipo (separar interiores y exteriores)
+- [ ] 3.7 Agregar y eliminar con copia de la lista, guardado y luego cambio en memoria
 - [ ] Cierre: compila y el repositorio guarda y lee sin la ventana
 
 ## Hito 4 · Controlador base y tabla
