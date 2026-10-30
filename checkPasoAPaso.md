@@ -49,7 +49,7 @@ Regla: después de cada sub-hito se ejecuta (`Launcher`). Se marca con `[x]` sol
 - [x] Cierre: la app abre con la tabla enlazada y el selector funciona
 
 ## Hito 5 · Registrar y validaciones
-- [ ] 5.1 Validar tipo, nombre, altura y cantidad
+- [x] 5.1 Validar tipo, nombre, altura y cantidad
 - [ ] 5.2 Validar volumen (interior) y especie (exterior)
 - [ ] 5.3 Mensajes de error en la ventana, conservando lo ingresado
 - [ ] 5.4 Crear la planta, guardar y actualizar la tabla
