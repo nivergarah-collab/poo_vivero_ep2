@@ -42,7 +42,7 @@ Regla: después de cada sub-hito se compila (`mvn compile`). Se marca con `[x]` 
 
 ## Hito 4 · Controlador base y tabla
 - [x] 4.1 Campos `@FXML` enlazados a los `fx:id`
-- [ ] 4.2 `initialize()`: opciones del selector y columnas de la tabla
+- [ ] 4.2 `initialize()`: opciones del selector (hecho) y columnas de la tabla
 - [ ] 4.3 Lista observable conectada a la tabla
 - [ ] 4.4 Habilitar y deshabilitar los datos según el tipo
 - [ ] 4.5 Mostrar las plantas cargadas al iniciar
