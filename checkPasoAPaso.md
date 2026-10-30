@@ -58,7 +58,7 @@ Regla: después de cada sub-hito se ejecuta (`Launcher`). Se marca con `[x]` sol
 - [x] Cierre: se registra una planta válida y una inválida da su aviso
 
 ## Hito 6 · Eliminar y archivos
-- [ ] 6.1 Eliminar la fila seleccionada
+- [x] 6.1 Eliminar la fila seleccionada
 - [ ] 6.2 Aviso si no hay selección, sin cambios
 - [ ] 6.3 Guardado automático al registrar y al eliminar
 - [ ] 6.4 Error de lectura o guardado informado en la ventana
