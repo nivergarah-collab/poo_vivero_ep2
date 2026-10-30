@@ -41,7 +41,7 @@ Regla: después de cada sub-hito se compila (`mvn compile`). Se marca con `[x]` 
 - [x] Cierre: compila y el repositorio guarda y lee sin la ventana (probado en la copia de Claude; en tu PC se prueba de punta a punta en el hito 7)
 
 ## Hito 4 · Controlador base y tabla
-- [ ] 4.1 Campos `@FXML` enlazados a los `fx:id`
+- [x] 4.1 Campos `@FXML` enlazados a los `fx:id`
 - [ ] 4.2 `initialize()`: opciones del selector y columnas de la tabla
 - [ ] 4.3 Lista observable conectada a la tabla
 - [ ] 4.4 Habilitar y deshabilitar los datos según el tipo
