@@ -50,8 +50,8 @@ Regla: después de cada sub-hito se ejecuta (`Launcher`). Se marca con `[x]` sol
 
 ## Hito 5 · Registrar y validaciones
 - [x] 5.1 Validar tipo, nombre, altura y cantidad
-- [ ] 5.2 Validar volumen (interior) y especie (exterior)
-- [ ] 5.3 Mensajes de error en la ventana, conservando lo ingresado
+- [x] 5.2 Validar volumen (interior) y especie (exterior)
+- [x] 5.3 Mensajes de error en la ventana, conservando lo ingresado
 - [ ] 5.4 Crear la planta, guardar y actualizar la tabla
 - [ ] 5.5 Mensaje de éxito y formulario vacío
 - [ ] 5.6 Marcar lista para despacho en el exterior
