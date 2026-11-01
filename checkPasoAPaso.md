@@ -15,11 +15,12 @@ Regla: después de cada sub-hito se ejecuta (`Launcher`). Se marca con `[x]` sol
 - [x] 1.2 Recargar Maven y comprobar que compila
 - [x] 1.3 Crear la estructura de paquetes: `controller`, `repository`
 - [x] 1.4 Crear `module-info.java` (requires y opens)
-- [ ] 1.5 `mainClass` con `module-info.java`: funciona sin nombre de módulo (el plugin lo deduce y solo avisa)
-- [ ] 1.6 Compila con módulo y Gson
-- [ ] Cierre: compila y la app arranca
+- [x] 1.5 `mainClass` con `module-info.java`: funciona sin nombre de módulo (el plugin lo deduce y solo avisa)
+- [x] 1.6 Compila con módulo y Gson
+- [x] Cierre: compila y la app arranca
 
 ## Hito 2 · Vista (Scene Builder)
+> Por rellenar con tus capturas y tu práctica. El código ya quedó igual a la versión guiada (`main-view.fxml` completo y `MainController` con `onRegistrar` y `onEliminar` vacíos) para que puedas partir desde el hito 3.
 - [ ] 2.1 Crear `main-view.fxml` en `src/main/resources/cl/duoc/vivero/view/`
 - [ ] 2.2 Formulario: selector de tipo, nombre, altura, cantidad
 - [ ] 2.3 Datos de interior (volumen) y de exterior (especie, heladas, despacho)

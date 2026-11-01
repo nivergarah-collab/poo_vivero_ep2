@@ -1,11 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
-
-<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" spacing="10.0" xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1">
+<VBox prefHeight="700.0" prefWidth="700.0" spacing="10.0" xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cl.duoc.vivero.controller.MainController">
    <padding>
       <Insets bottom="15.0" left="15.0" right="15.0" top="15.0" />
    </padding>
+   <children>
+      <GridPane>
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <Label text="Tipo" />
+            <Label text="Nombre" GridPane.rowIndex="1" />
+            <Label text="Altura (cm)" GridPane.rowIndex="2" />
+            <Label text="Cantidad" GridPane.rowIndex="3" />
+            <ComboBox fx:id="cmbTipo" prefWidth="150.0" GridPane.columnIndex="1" />
+            <TextField fx:id="txtNombre" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+            <TextField fx:id="txtAltura" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+            <TextField fx:id="txtCantidad" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+         </children>
+         <VBox.margin>
+            <Insets />
+         </VBox.margin>
+      </GridPane>
+      <HBox fx:id="boxInterior" prefHeight="100.0" prefWidth="200.0" spacing="10.0">
+         <children>
+            <Label text="Volumen maceta (L) " />
+            <TextField fx:id="txtVolumen" />
+         </children>
+      </HBox>
+      <HBox fx:id="boxExterior" prefHeight="100.0" prefWidth="200.0" spacing="10.0">
+         <children>
+            <Label text="Especie" />
+            <TextField fx:id="txtEspecie" />
+            <CheckBox fx:id="chkHeladas" mnemonicParsing="false" text="Resiste heladas" />
+            <CheckBox fx:id="chkDespacho" mnemonicParsing="false" text="Lista para despacho" />
+         </children>
+      </HBox>
+      <Button fx:id="btnRegistrar" mnemonicParsing="false" onAction="#onRegistrar" text="Registrar" />
+      <TableView fx:id="tblPlantas" prefHeight="200.0" prefWidth="200.0">
+        <columns>
+          <TableColumn fx:id="colTipo" prefWidth="75.0" text="Tipo" />
+          <TableColumn fx:id="colNombre" prefWidth="75.0" text="Nombre" />
+            <TableColumn fx:id="colAltura" prefWidth="75.0" text="Altura (cm)" />
+            <TableColumn fx:id="colCantidad" prefWidth="75.0" text="Cantidad" />
+            <TableColumn fx:id="colPrecio" prefWidth="75.0" text="Precio unitario" />
+        </columns>
+         <columnResizePolicy>
+            <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+         </columnResizePolicy>
+      </TableView>
+      <Button fx:id="btnEliminar" mnemonicParsing="false" onAction="#onEliminar" text="Eliminar" />
+      <Label fx:id="lblMensaje" wrapText="true" />
+   </children>
 </VBox>
