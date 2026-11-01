@@ -4,11 +4,11 @@ Rama de trabajo: `Reinicio_estudio_desde_main`
 Regla: después de cada sub-hito se ejecuta (`Launcher`). Se marca con `[x]` solo lo que ya corre y funciona.
 
 ## Hito 0 · Lectura y rama
-- [ ] 0.1 Repo `poo_vivero_ep2` agregado a la sesión
-- [ ] 0.2 Leídos `ENUNCIADO.md`, `LEEME.txt`, `README.md` y `pom.xml`
-- [ ] 0.3 Rama `Reinicio_estudio_desde_main` creada desde `main` y sin restos del estudio anterior
-- [ ] 0.4 Carpeta limpia: sin `target`, sin JSON, `git status` vacío
-- [ ] 0.5 Plan de hitos aprobado (por Claude, por delegación de Nicolás)
+- [x] 0.1 Repo `poo_vivero_ep2` agregado a la sesión
+- [x] 0.2 Leídos `ENUNCIADO.md`, `LEEME.txt`, `README.md` y `pom.xml`
+- [x] 0.3 Rama `Reinicio_estudio_desde_main` creada desde `main` y sin restos del estudio anterior
+- [x] 0.4 Carpeta limpia: sin `target`, sin JSON, `git status` vacío
+- [x] 0.5 Plan de hitos aprobado (por Claude, por delegación de Nicolás)
 
 ## Hito 1 · Configuración (IntelliJ)
 - [ ] 1.1 Dependencia de Gson en `pom.xml`
